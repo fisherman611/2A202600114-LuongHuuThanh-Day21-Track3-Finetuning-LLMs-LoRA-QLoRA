@@ -1,0 +1,6 @@
+prompt,base,finetuned
+"A 45-year-old male presents with sudden onset of severe chest pain radiating to the back. His blood pressure is 180/100 mmHg. What is the most likely diagnosis?","A: Acute aortic dissection\nB: Aortic stenosis\nC: Aortic aneurysm\nD: Pulmonary embolism\nE: Myocardial infarction\nA: Acute aortic dissection","A: Acute aortic dissection"
+"A 32-year-old female presents with a butterfly rash on her face and joint pain. Laboratory tests show positive anti-dsDNA antibodies. What is the initial treatment of choice?","A: Methotrexate\nB: Azathioprine\nC: Cyclophosphamide\nD: Mycophenolate mofetil\nE: Bortezomib","B: Methotrexate"
+"A 65-year-old smoker presents with chronic cough and weight loss. Imaging shows a central lung mass. What type of lung cancer is most strongly associated with smoking?","C: Small cell carcinoma","A: Squamous cell carcinoma"
+"A 5-year-old child presents with high fever, barking cough, and inspiratory stridor. What is the most likely causative organism?","A: Bacterium","D. Adenovirus"
+"A 55-year-old patient with cirrhosis presents with hematemesis. What is the most common cause of upper gastrointestinal bleeding in this patient?","B: Variceal bleeding","### Answer:\nA: Nonvaricosal esophageal varices"
